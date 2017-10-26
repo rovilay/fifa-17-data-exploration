@@ -24,6 +24,6 @@
  <h2> Data visualization(2)</h2>
  <section>This section focus on this playing the population of each countries based on each rating group on a map i.e each country when hovered on the map displays the population of rating group. There are 3 maps display which represents the age group (Youngster (17-24), Normal(25 -30 for outfield players and 25-31 for goalkeepers ), old( 31- for outfield players and 32- for goalkeepers)) </section>
 
- <h2> Data visualization(2)</h2>
+ <h2> Data visualization(3)</h2>
  <section> This section focus on represent various graphical datas like %population of each age in fifa 17,  Ranking of clubs and countries based on ratings, Top 200 players.
  NOte: the ranking by country isn't valid because countries with lesser population have the advantage over countries with higher population despite the latter having higher ratings but the average suggests otherwise.</section>

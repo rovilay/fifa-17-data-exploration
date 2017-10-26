@@ -3,7 +3,7 @@
 <h3> NOTE: hashtags ending with 3 astericks are comments </h3>
 
 <h2> The Data (Fifa 17)</h2>
- <section>The Data (Fifa 17), was sourced from the popular data bank or site 'Kaggle.com' and it can be checked for more information about the data and how it was sourced or created</section>
+ <section>The Data (Fifa 17), was sourced from the popular data bank or site <a href='https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global'>Kaggle.com'</a> and it can be checked for more information about the data and how it was sourced or created</section>
 
 <h2> Data Cleaning</h2>
   <section> The Data Cleaning file focus on cleaning and preparing the the raw data 'FullData.csv' for exploration. It majorly classifies the data into groups (According to how i felt it necessary) ,The groups are based on: Country, Club, Position, Age, Ratings. Also new columns were formed based on other columns in the dataset,the columns formed are: Age Group from Age colum, Rating Group from Rating Column. This columns were formed to aid better classification  which is the main purpose of this file or section.</section>
